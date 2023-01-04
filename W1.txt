@@ -1,0 +1,10 @@
+第一周
+学习：
+基础学习部分：
+html基础
+css基础（flex布局http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html）
+参照菜鸟教程/MDN文档
+react基础，参照官方文档，学习构建一个react项目并能够运行
+实践：
+学习以上基础，构建基础网页，推荐：字节跳动官网新闻页面 https://www.bytedance.com/zh/news?anchor=part-1（复现只需实现静态页面，可以没有交互，尽量使用flex布局）
+本地创建react项目并且能够run
